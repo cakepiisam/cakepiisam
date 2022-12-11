@@ -7,7 +7,9 @@
 - **RIPE sekä ARIN verkoston ylläpitoa**
 - **Yritysten laitesalin ylläpitoa**
 - **Yritysten IT- Järjestelmien ylläpitoa** 
-
+- **Suojauksia verkkosi, palvelinkeskuksesi ja infrastruktuurisi DDoS-hyökkäyksiltä.**
+- **Suojauksia verkkosivuston DDoS-hyökkäyksiä vastaan.**
+- **Suojauksia TCP/UDP-sovelluksille DDoS-hyökkäyksiä vastaan.**
 Sähköpostini: **contact@cakepiisam.net**
 
 
